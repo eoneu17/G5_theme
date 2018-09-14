@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.latest{width: 595px;height: 250px;background: #fff;position: relative;padding: 30px;box-shadow: 5px 5px 5px #ccc;}
+dt{font-weight: bold;font-size: 1.5rem;text-align: left;margin-bottom: 20px;}
+a.more_btn{position: absolute;top: 10px;right: 20px;font-size: 3rem;line-height: 3rem;color: #0078AE;}
+dd li{border-bottom: 1px dotted #aaa;margin-bottom: 10px;padding-bottom: 5px;font-size: 1rem;}
+.icon{background: url(img/notice_i.png);display: inline-block;width: 1rem;height: 1rem;}
